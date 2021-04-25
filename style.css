@@ -1,0 +1,26 @@
+#jumbo{
+    font-family: fantasy, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    
+    width: 1300px; height: 310px; background-image: url(imagenes/slider2-1.jpg);
+    
+}
+
+#oferta{
+    font-size: xx-large;
+}
+
+
+#primero{
+    color: darkblue;
+}
+
+#segundo{
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+#cards{
+    text-align: center;
+}
