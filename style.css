@@ -1,8 +1,8 @@
 #jumbo{
-    font-family: fantasy, Geneva, Tahoma, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: large;
     
-    width: 1300px; height: 310px; background-image: url(imagenes/slider2-1.jpg);
+    width: 1300px; height: 310px; background-image: url(imagenes/1300-310-PEPPERONI.jpg);
     
 }
 
@@ -16,8 +16,9 @@
 }
 
 #segundo{
-    color: rgb(255, 255, 255);
-    font-family: fantasy;
+    color: black;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
 
@@ -32,4 +33,67 @@
 
 body{
     background-color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#margen{
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+.caja{
+    position: relative;
+    display: inline-block;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.texto{
+    position: absolute;
+    top: 250px;
+    left: 5%;  
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
+    display: block;
+}
+.texto1{
+    position: absolute;
+    top: 400px;
+    left: 5%;  
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    display: block;
+}
+
+.texto2{
+    position: absolute;
+    top: 420px;
+    left: 5%;  
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    display: block;
+}
+.p1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+.filas{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+ 
+    border-collapse: separate;
+}
+.pie{
+    background-color: black;
+    text-align: center;
+    color: white;
 }
