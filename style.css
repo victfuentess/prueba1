@@ -103,8 +103,9 @@ body{
     border-collapse: separate;
 }
 .pie{
-    font-family: font-family: 'Cabin Sketch', cursive;
+    font-family: 'Cabin Sketch', cursive;
     background-color: black;
     text-align: center;
     color: white;
+    font-size: x-large;
 }
