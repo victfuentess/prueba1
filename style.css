@@ -1,29 +1,39 @@
 #jumbo{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: x-large;
     
-    width: 1300px; height: 310px; background-image: url(imagenes/1300-310-PEPPERONI.jpg);
+    width: 1300px; height: 340px; background-image: url(imagenes/1300\ -\ 340.jpg);
     
 }
 
 #oferta{
     font-size: xx-large;
+    color: red;
+    font-weight: bold;
 }
 
 
 #primero{
-    color: darkblue;
+    color: red;
+    font-weight: bold;
 }
 
 #segundo{
     color: black;
     font-size: xx-large;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Cabin Sketch', cursive;
     font-weight: bold;
 }
 
+#tercero{
+    color: black;
+    font-size: large;
+    font-family: 'Cabin Sketch', cursive;
+    }
+
 #cards{
     text-align: center;
+    font-family: 'Cabin Sketch', cursive;
 }
 
 #peppe{
@@ -33,7 +43,7 @@
 
 body{
     background-color: wheat;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Cabin Sketch', cursive;
 }
 
 #margen{
@@ -53,7 +63,7 @@ body{
     top: 250px;
     left: 5%;  
     font-weight: bold;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Cabin Sketch', cursive;
     font-size: 30px;
     color: black;
     display: block;
@@ -63,7 +73,7 @@ body{
     top: 400px;
     left: 5%;  
     font-weight: bold;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Cabin Sketch', cursive;
     font-size: 20px;
     color: black;
     display: block;
@@ -74,25 +84,26 @@ body{
     top: 420px;
     left: 5%;  
     font-weight: bold;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Cabin Sketch', cursive;
     font-size: 20px;
     color: black;
     display: block;
 }
 .p1{
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Cabin Sketch', cursive;
     font-size: 25px;
     color: black;
     display: block;
 }
 .filas{
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Cabin Sketch', cursive;
     font-size: 25px;
     color: black;
  
     border-collapse: separate;
 }
 .pie{
+    font-family: font-family: 'Cabin Sketch', cursive;
     background-color: black;
     text-align: center;
     color: white;
